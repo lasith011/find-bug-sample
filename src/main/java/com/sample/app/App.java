@@ -7,8 +7,6 @@ import java.util.Random;
  */
 public class App {
     public static void main(String[] args) {
-        String foo = null;
-        System.out.println(foo.length());
         System.out.println("Hello World!");
     }
 
